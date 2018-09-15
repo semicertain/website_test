@@ -11,6 +11,8 @@ disqus_shortname: programming
 #google_analytics: UA-31048387-6
 avatar_url: /static/img/me.jpg
 
+theme: jekyll-theme-minimal # https://github.com/pages-themes/minimal
+
 enableTags: true
 tagarray: []
 
